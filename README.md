@@ -8,10 +8,14 @@ The goal is to increase their client portfolio through engaging customers. I hav
 
 I will accomplish the follwing 3 main tasks:
 
-Initial Robo Advisor Configuration through AWS - Amazon Lex.
-Build and test the Robo Advisor.
-Enhance the Robo Advisor with Amazon Lambda Function.
-Conclusion
+1)Initial Robo Advisor Configuration through AWS - Amazon Lex.
+
+2)Build and test the Robo Advisor.
+
+3)Enhance the Robo Advisor with Amazon Lambda Function.
+
+## Conclusion
+
 All chat bot settings are stored within the AWS Management Console.
 
 When creating a chatbot for your company there are many ways to customize the product in a way that will be useful to customers.
